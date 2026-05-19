@@ -15,7 +15,7 @@
 ~~~txt
 状态    ：在线，但低电量
 运行环境：Windows / WSL / Linux
-常用工具：Python / TypeScript / Markdown / GitHub
+常用工具：Python / TypeScript / Go / Java / C++ / Markdown / GitHub
 当前任务：做一点有用的小东西
 心情颜色：冰蓝色
 ~~~
@@ -47,7 +47,7 @@
 
 ### 🧁 喜欢的东西
 
-`Python` · `TypeScript` · `Linux` · `WSL` · `Markdown` · `AI Tools` · `自动化` · `开源` · `小工具`
+`Python` · `TypeScript` · `Go` · `Java` · `C++` · `Linux` · `WSL` · `Markdown` · `AI Tools` · `自动化` · `开源` · `小工具`
 
 ---
 
@@ -57,12 +57,17 @@
 
 ![Python](https://img.shields.io/badge/Python-A7C7E7?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-F7C8E0?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-B4E4FF?style=flat&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FFC8DD?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-A7C7E7?style=flat&logo=cplusplus&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-B4E4FF?style=flat&logo=nodedotjs&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FFDEB4?style=flat&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-CDB4DB?style=flat&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-BDE0FE?style=flat&logo=markdown&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-CAF0F8?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-A2D2FF?style=flat&logo=githubactions&logoColor=white)
+
+</div>
 
 </div>
 
