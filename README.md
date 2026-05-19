@@ -1,16 +1,54 @@
-## Hi there 👋
+# 脸脸的小工坊
 
-<!--
-**kuliantnt/kuliantnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+这里放一些小工具、实验项目和奇怪但有用的东西。
 
-Here are some ideas to get you started:
+大多数项目都不大，  
+只是为了解决某个具体的小麻烦。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 工坊状态
+
+```txt
+工坊灯光：开着
+负责人  ：雪雪
+状态    ：低电量运行
+今日目标：少一点重复劳动
+常见产物：脚本、小工具、文档、自动化流程
+
+
+---
+
+工坊里通常会出现
+
+临时写出来但越用越顺手的小工具
+
+AI 相关的小实验
+
+文档生成、整理、转换工具
+
+GitHub / Codex / WSL 相关配置
+
+一些“本来只是随手写写”的项目
+
+
+
+---
+
+技术栈
+
+Java · Rust · Go · Python · TypeScript · Node.js · Markdown · Linux · WSL
+
+
+---
+
+备注
+
+这里不保证每个项目都很完整。
+但如果它被放出来了，
+大概率是因为它真的解决过一个问题。
+
+
+---
+
+欢迎参观，工具请自取，坏了请提 Issue。
