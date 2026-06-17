@@ -55,7 +55,7 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-FFDEB4?style=flat&logo=rust&logoColor=8B5E34)
 ![Python](https://img.shields.io/badge/Python-A7C7E7?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-F7C8E0?style=flat&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-B4E4FF?style=flat&logo=go&logoColor=white)
