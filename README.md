@@ -47,7 +47,7 @@
 
 ### 🧁 喜欢的东西
 
-`Python` · `TypeScript` · `Go` · `Java` · `C++` · `Linux` · `WSL` · `Markdown` · `AI Tools` · `自动化` · `开源` · `小工具`
+`Rust` · `Unix` · `Go` · `Java` · `C++` · `Linux` · `WSL` · `Markdown` · `AI Tools` · `自动化` · `开源` · `小工具`
 
 ---
 
