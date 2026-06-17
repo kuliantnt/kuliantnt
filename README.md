@@ -15,7 +15,7 @@
 ~~~txt
 状态    ：在线，但低电量
 运行环境：Windows / WSL / Linux
-常用工具：Rust / Python / TypeScript / Go / Java / C++ / Markdown
+常用工具：Rust / Python / TypeScript / Go / Java / C++ / Ansible / Markdown
 当前任务：做一点有用的小东西
 心情颜色：冰蓝色
 ~~~
@@ -47,7 +47,7 @@
 
 ### 🧁 喜欢的东西
 
-`Rust` · `Unix` · `Go` · `Java` · `C++` · `Linux` · `WSL` · `Markdown` · `AI Tools` · `自动化` · `开源` · `小工具`
+`Rust` · `Unix` · `Go` · `Java` · `C++` · `Linux` · `WSL` · `Ansible` · `Markdown` · `AI Tools` · `自动化` · `开源` · `小工具`
 
 ---
 
@@ -55,18 +55,19 @@
 
 <div align="center">
 
-![Rust](https://img.shields.io/badge/Rust-FFDEB4?style=flat&logo=rust&logoColor=8B5E34)
-![Python](https://img.shields.io/badge/Python-A7C7E7?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-F7C8E0?style=flat&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-B4E4FF?style=flat&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FFC8DD?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-A7C7E7?style=flat&logo=cplusplus&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-B4E4FF?style=flat&logo=nodedotjs&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FFDEB4?style=flat&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-CDB4DB?style=flat&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-BDE0FE?style=flat&logo=markdown&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-CAF0F8?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-A2D2FF?style=flat&logo=githubactions&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-E8D7C3?style=flat&logo=rust&logoColor=6B4E3D)
+![Python](https://img.shields.io/badge/Python-BDE0FE?style=flat&logo=python&logoColor=2F5D8C)
+![TypeScript](https://img.shields.io/badge/TypeScript-CDB4DB?style=flat&logo=typescript&logoColor=4B3F72)
+![Go](https://img.shields.io/badge/Go-CAF0F8?style=flat&logo=go&logoColor=287C8E)
+![Java](https://img.shields.io/badge/Java-FFD6A5?style=flat&logo=openjdk&logoColor=8A5A22)
+![C++](https://img.shields.io/badge/C++-A7C7E7?style=flat&logo=cplusplus&logoColor=315C7C)
+![Node.js](https://img.shields.io/badge/Node.js-D8F3DC?style=flat&logo=nodedotjs&logoColor=2D6A4F)
+![Linux](https://img.shields.io/badge/Linux-FFF1B8?style=flat&logo=linux&logoColor=6B5B00)
+![Ansible](https://img.shields.io/badge/Ansible-FFE5EC?style=flat&logo=ansible&logoColor=8A3447)
+![GitHub](https://img.shields.io/badge/GitHub-E7C6FF?style=flat&logo=github&logoColor=5A3D73)
+![Markdown](https://img.shields.io/badge/Markdown-BDE0FE?style=flat&logo=markdown&logoColor=355C7D)
+![Docker](https://img.shields.io/badge/Docker-CAF0F8?style=flat&logo=docker&logoColor=277DA1)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-A2D2FF?style=flat&logo=githubactions&logoColor=315C9B)
 
 </div>
 
