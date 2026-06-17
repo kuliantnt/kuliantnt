@@ -15,7 +15,7 @@
 ~~~txt
 状态    ：在线，但低电量
 运行环境：Windows / WSL / Linux
-常用工具：Rust / Python / TypeScript / Go / Java / C++ / Markdown
+常用工具：Rust / Python / TypeScript / Go / Java / C++ / Ansible / Markdown
 当前任务：做一点有用的小东西
 心情颜色：冰蓝色
 ~~~
@@ -47,7 +47,7 @@
 
 ### 🧁 喜欢的东西
 
-`Rust` · `Unix` · `Go` · `Java` · `C++` · `Linux` · `WSL` · `Markdown` · `AI Tools` · `自动化` · `开源` · `小工具`
+`Rust` · `Unix` · `Go` · `Java` · `C++` · `Linux` · `WSL` · `Ansible` · `Markdown` · `AI Tools` · `自动化` · `开源` · `小工具`
 
 ---
 
