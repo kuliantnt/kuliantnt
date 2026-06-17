@@ -15,7 +15,7 @@
 ~~~txt
 状态    ：在线，但低电量
 运行环境：Windows / WSL / Linux
-常用工具：Rust / Python / TypeScript / Go / Java / C++ / Ansible / Markdown
+常用工具：Rust / Python / Markdown
 当前任务：做一点有用的小东西
 心情颜色：冰蓝色
 ~~~
