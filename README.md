@@ -88,8 +88,7 @@
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=kuliantnt&hide_border=true&background=00000000&ring=A7C7E7&fire=F7C8E0&currStreakLabel=557A95&sideLabels=557A95&dates=8294A6" />
-
+<img src="https://streak-stats.demolab.com?user=kuliantnt&hide_border=true&background=00000000&ring=A7C7E7&fire=F7C8E0&currStreakLabel=6F9DB8&sideLabels=6F9DB8&dates=8FA6B8&currStreakNum=DCEAF5&sideNums=DCEAF5" />
 </div>
 
 > 统计只是工坊留下的脚印。
