@@ -83,40 +83,6 @@
 <div align="center">
 
 <picture>
-  <!-- <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=kuliantnt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=7FA6C0&text_color=8FA6B8&icon_color=A7C7E7&bg_color=0D1117"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=kuliantnt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=466B82&text_color=4F6170&icon_color=7FA6C0&bg_color=FFFFFF"
-  /> -->
-  <img
-    height="165"
-    alt="脸脸的 GitHub 统计"
-    src="https://github-readme-stats.vercel.app/api?username=kuliantnt&show_icons=true&include_all_commits=true&count_private=true"
-  />
-</picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kuliantnt&layout=compact&hide_border=true&title_color=7FA6C0&text_color=8FA6B8&bg_color=0D1117"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kuliantnt&layout=compact&hide_border=true&title_color=466B82&text_color=4F6170&bg_color=FFFFFF"
-  />
-  <img
-    height="165"
-    alt="常用语言统计"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuliantnt&layout=compact"
-  />
-</picture>
-
-<br>
-
-<picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://streak-stats.demolab.com?user=kuliantnt&hide_border=true&background=0D1117&ring=A7C7E7&fire=F7C8E0&currStreakLabel=7FA6C0&sideLabels=7FA6C0&dates=8FA6B8&currStreakNum=DCEAF5&sideNums=DCEAF5"
