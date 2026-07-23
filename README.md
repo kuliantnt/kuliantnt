@@ -83,14 +83,14 @@
 <div align="center">
 
 <picture>
-  <source
+  <!-- <source
     media="(prefers-color-scheme: dark)"
     srcset="https://github-readme-stats.vercel.app/api?username=kuliantnt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=7FA6C0&text_color=8FA6B8&icon_color=A7C7E7&bg_color=0D1117"
   />
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://github-readme-stats.vercel.app/api?username=kuliantnt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=466B82&text_color=4F6170&icon_color=7FA6C0&bg_color=FFFFFF"
-  />
+  /> -->
   <img
     height="165"
     alt="脸脸的 GitHub 统计"
